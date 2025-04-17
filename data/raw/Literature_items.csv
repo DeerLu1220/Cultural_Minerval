@@ -27,40 +27,40 @@ Q7729175,The Day I Swapped My Dad for Two Goldfish,book by Neil Gaiman,Il giorno
 Q83076,MUL.APIN,compendium with many diverse aspects of Babylonian astronomy and astrology,MUL.APIN,compendio astronomico/astrologico scritto in Mesopotamia,Literature,entity
 Q834321,Man'yōshū,"the oldest existing collection of Japanese poetry, compiled sometime after 759 AD during the Nara period.",Man'yōshū,la più antica raccolta di poesie giapponesi,Literature,entity
 Q862441,Tre pepparkaksgubbar,"Christmas song written and composed by Alice Tegnér and Astrid Forsell-Gullstrand, originally published in 1913",Tre pepparkaksgubbar,canzone natalizia svedese,Literature,entity
-Q2642350,Jewish literature,literature written by Jews on Jewish themes,letteratura ebraica,letteratura scritta da ebrei su temi ebraici,Literature,concept
 Q6689,French literature,literature written by French authors or French-speaking authors,letteratura francese,insieme delle opere scritte da autori di nazionalità francese e/o di lingua francese,Literature,concept
-Q3139891,LGBT-related literature,literary genre,temi LGBT nella letteratura,temi LGBT nelle varie tradizioni letterarie,Literature,concept
-Q184890,Latin-language literature,"literature written in Latin, and the discipline that studies it",letteratura latina,letteratura in lingua latina,Literature,concept
-Q365585,Persian literature,oral compositions and written texts in the Persian language,letteratura persiana,letteratura in lingua persiana,Literature,concept
 Q74217,Italian literature,Italian regional literature,storia della letteratura italiana,eventi della letteratura italiana,Literature,concept
-Q194380,Arabic literature,written literature in Arabic language,letteratura araba,letteratura in lingua araba,Literature,concept
+Q2642350,Jewish literature,literature written by Jews on Jewish themes,letteratura ebraica,letteratura scritta da ebrei su temi ebraici,Literature,concept
+Q3139891,LGBT-related literature,literary genre,temi LGBT nella letteratura,temi LGBT nelle varie tradizioni letterarie,Literature,concept
+Q365585,Persian literature,oral compositions and written texts in the Persian language,letteratura persiana,letteratura in lingua persiana,Literature,concept
 Q186579,English literature,literary works written in the English language,letteratura inglese,letteratura in lingua inglese,Literature,concept
-Q113434497,Interlingue literature,literature in a constructed language,Letteratura in occidental,"letteratura in interlingue (lingua artificiale anche nota come ""occidental"")",Literature,concept
-Q622237,Indian literature,regional literature,letteratura indiana,letteratura prodotta in India,Literature,concept
-Q683732,Irish literature,writings from the island of Ireland,letteratura irlandese,letteratura prodotta in Irlanda,Literature,concept
+Q477756,chick lit,"Term for popular women's fiction principally used in 1990s and 2000s, now usually regarded as sexist.",chick lit,"genere letterario che si rivolgono prevalentemente a un pubblico di donne giovani, single e in carriera",Literature,concept
+Q184890,Latin-language literature,"literature written in Latin, and the discipline that studies it",letteratura latina,letteratura in lingua latina,Literature,concept
+Q764912,British literature,literary works published in Great Britain or by British writers,letteratura britannica,opere letterarie pubblicate in Gran Bretagna o da scrittori britannici,Literature,concept
+Q3831106,Anti-Tom literature,American 19th century pro-slavery novels,Letteratura anti-Tom,genere letterario statunitense,Literature,concept
 Q386853,Finnish literature,literature written in Finland,letteratura finlandese,letteratura in lingua finlandese,Literature,concept
 Q386319,African literature,literary works from Africa,letteratura africana,letteratura dell'Africa subsahariana,Literature,concept
-Q238499,Spanish literature,literature written in the Spanish language from Spain,letteratura spagnola,letteratura in lingua spagnola,Literature,concept
+Q4350036,translated literature,"literature originally written in one language, and then translated into another",letteratura tradotta,letteratura originariamente scritta in una lingua e poi tradotta in un'altra,Literature,concept
+Q194380,Arabic literature,written literature in Arabic language,letteratura araba,letteratura in lingua araba,Literature,concept
 Q215198,verismo,Italian literary movement,Verismo,corrente letteraria italiana,Literature,concept
-Q692327,Polish literature,Polish language literature,letteratura polacca,letteratura in lingua polacca,Literature,concept
-Q684384,Armenian literature,literature written in the Armenian language,letteratura armena,letteratura in lingua armena,Literature,concept
-Q963619,medieval literature,literature produced during the Middle Ages,letteratura medievale,produzione letteraria del Medioevo,Literature,concept
+Q622237,Indian literature,regional literature,letteratura indiana,letteratura prodotta in India,Literature,concept
+Q683732,Irish literature,writings from the island of Ireland,letteratura irlandese,letteratura prodotta in Irlanda,Literature,concept
+Q238499,Spanish literature,literature written in the Spanish language from Spain,letteratura spagnola,letteratura in lingua spagnola,Literature,concept
 Q849186,Brazilian literature,subset of literature produced or related to Brazil,letteratura brasiliana,letteratura prodotta in Brasile,Literature,concept
 Q849175,Danish literature,literature of Denmark,letteratura danese,letteratura in danese,Literature,concept
-Q986539,oral literature,literary genre,letteratura orale,genere letterario,Literature,concept
-Q12410156,human rights literature,"literary genre that deals with human rights issues, and thus - directly or indirectly - promotes values of human rights",letteratura dei diritti umani,genere letterario,Literature,concept
-Q696203,apocalypse,"concept of a prophetic revelation, sometimes about eschatology",apocalisse,"genere letterario con una rivelazione profetica, spesso sulla fine del mondo",Literature,concept
-Q747483,erotic literature,comprises fictional and factual stories and accounts of human sexual relationships,letteratura erotica,genere letterario,Literature,concept
-Q4350036,translated literature,"literature originally written in one language, and then translated into another",letteratura tradotta,letteratura originariamente scritta in una lingua e poi tradotta in un'altra,Literature,concept
-Q3831106,Anti-Tom literature,American 19th century pro-slavery novels,Letteratura anti-Tom,genere letterario statunitense,Literature,concept
-Q764912,British literature,literary works published in Great Britain or by British writers,letteratura britannica,opere letterarie pubblicate in Gran Bretagna o da scrittori britannici,Literature,concept
-Q477756,chick lit,"Term for popular women's fiction principally used in 1990s and 2000s, now usually regarded as sexist.",chick lit,"genere letterario che si rivolgono prevalentemente a un pubblico di donne giovani, single e in carriera",Literature,concept
-Q2633563,Syriac literature,literature composed in the Syriac language,letteratura siriaca,letteratura in lingua siriaca,Literature,concept
-Q1057314,Hebrew literature,writing in the Hebrew language,letteratura ebraica,letteratura ebraica in ebraico del II millennio a.E.V.,Literature,concept
-Q1328366,Turkish literature,genre of literature,letteratura turca,letteratura in lingua turca,Literature,concept
-Q1383821,Exilliteratur,German literature written by dissenters of Nazi Germany,Exilliteratur,genere,Literature,concept
 Q1414023,Icelandic literature,literature written in Iceland or by Icelandic people,letteratura islandese,letteratura in lingua islandese,Literature,concept
 Q1424020,cordel literature,literary genre,letteratura di cordel,tipo di poema popolare,Literature,concept
+Q692327,Polish literature,Polish language literature,letteratura polacca,letteratura in lingua polacca,Literature,concept
+Q684384,Armenian literature,literature written in the Armenian language,letteratura armena,letteratura in lingua armena,Literature,concept
+Q1328366,Turkish literature,genre of literature,letteratura turca,letteratura in lingua turca,Literature,concept
+Q1383821,Exilliteratur,German literature written by dissenters of Nazi Germany,Exilliteratur,genere,Literature,concept
+Q696203,apocalypse,"concept of a prophetic revelation, sometimes about eschatology",apocalisse,"genere letterario con una rivelazione profetica, spesso sulla fine del mondo",Literature,concept
+Q747483,erotic literature,comprises fictional and factual stories and accounts of human sexual relationships,letteratura erotica,genere letterario,Literature,concept
 Q1666161,migrant literature,literature written by or about migrants,Letteratura migrante,letteratura scritta da immigrati,Literature,concept
 Q1723523,Canadian literature,set of literary works from Canada,Letteratura canadese,letteratura prodotta in Canada,Literature,concept
+Q113434497,Interlingue literature,literature in a constructed language,Letteratura in occidental,"letteratura in interlingue (lingua artificiale anche nota come ""occidental"")",Literature,concept
 Q1933509,Slovene literature,written in the Slovene language,letteratura slovena,letteratura in lingua slovena,Literature,concept
+Q963619,medieval literature,literature produced during the Middle Ages,letteratura medievale,produzione letteraria del Medioevo,Literature,concept
+Q2633563,Syriac literature,literature composed in the Syriac language,letteratura siriaca,letteratura in lingua siriaca,Literature,concept
+Q986539,oral literature,literary genre,letteratura orale,genere letterario,Literature,concept
+Q12410156,human rights literature,"literary genre that deals with human rights issues, and thus - directly or indirectly - promotes values of human rights",letteratura dei diritti umani,genere letterario,Literature,concept
+Q1057314,Hebrew literature,writing in the Hebrew language,letteratura ebraica,letteratura ebraica in ebraico del II millennio a.E.V.,Literature,concept

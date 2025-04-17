@@ -161,28 +161,28 @@ Q9316,Sikhism,monotheistic Indian religion,sikhismo,religione nata in India,Reli
 Q9581,Confucianism,Chinese ethical and philosophical system,confucianesimo,tradizione filosofica e morale,Religion,entity
 Q9598,Taoism,religious or philosophical tradition of Chinese origin,taoismo,"filosofia religiosa panteistica, monistica",Religion,entity
 Q9601,Zoroastrianism,Iranian religion founded by Zoroaster,zoroastrismo,religione e filosofia,Religion,entity
-Q9232,Jainism,Indian religion,giainismo,antica religione nata in India,Religion,concept
 Q29536,paganism,polytheistic religious groups,paganesimo,religioni praticate precedentemente al Cristianesimo,Religion,concept
 Q9598,Taoism,religious or philosophical tradition of Chinese origin,taoismo,"filosofia religiosa panteistica, monistica",Religion,concept
+Q9232,Jainism,Indian religion,giainismo,antica religione nata in India,Religion,concept
 Q131165,Manichaeism,Persian religion founded in the 3rd century CE,manicheismo,religione dualista fondata dal persiano Mani,Religion,concept
 Q183308,New Age,spiritual or religious beliefs and practices that developed in Western nations during the 1970s,New Age,movimento culturale alternativo,Religion,concept
-Q177764,Voodoo Church,"religion practiced by the Aja, Ewe, and Fon people",vudù,religione afroamericana,Religion,concept
-Q178671,Theosophy,religion founded by Helena Blavatsky,teosofia,insieme di dottrine esoterico-filosofiche rese popolari nel XIX secolo da Helena Petrovna Blavatsky,Religion,concept
-Q188213,state religion,religious body or creed officially endorsed by the state,religione di Stato,credo religioso che gode di approvazione ufficiale da parte dello Stato,Religion,concept
-Q505821,Greco-Roman mysteries,religious/ritual practice of the Greco-Roman world,religione misterica,religioni i cui fondamenti sono rivelati solo agli adepti,Religion,concept
 Q383258,orthodoxy,"adherence to the actual accepted belief, especially in religion",ortodossia,piena adesione a una dottrina,Religion,concept
 Q247700,plane,"a subtle state, level, or region of reality",Piani di realtà,Dimensioni o strati sottili in cui si ritiene suddivisa la totalità dell'essere nell'esoterismo,Religion,concept
 Q263031,Celtic polytheism,religion practiced by ancient Celtic people,religione celtica,"Politeismo e Divinità I Celti adoravano numerose divinità, ognuna associata a specifici aspetti della vita, come la guerra, la fertilità e la natura. Le divinità erano spesso rappresentate attraverso simboli naturali, come alberi e animali",Religion,concept
 Q337547,ancient Roman religion,form of Indo-European polytheism practised in the Roman civilization,religione romana,credenze del popolo romano,Religion,concept
-Q620629,deism,belief in God without revelation,deismo,filosofia razionalista e anticlericale,Religion,concept
-Q620805,theism,belief in the existence of at least one deity; the opposite of atheism,teismo,dottrina e credo secondo cui esista almeno una divinità,Religion,concept
+Q188213,state religion,religious body or creed officially endorsed by the state,religione di Stato,credo religioso che gode di approvazione ufficiale da parte dello Stato,Religion,concept
+Q178671,Theosophy,religion founded by Helena Blavatsky,teosofia,insieme di dottrine esoterico-filosofiche rese popolari nel XIX secolo da Helena Petrovna Blavatsky,Religion,concept
 Q477544,new religious movement,religious community or spiritual group of modern origins,nuovo movimento religioso,movimento religioso o spirituale nato principalmente nell'ultimo secolo,Religion,concept
 Q930585,Gemara,"one of the two parts of the Talmud (along with the Mishnah), comprising 63 books of of rabbinical analyses and commentaries on the Mishnah",Ghemara,parte del Talmud,Religion,concept
+Q505821,Greco-Roman mysteries,religious/ritual practice of the Greco-Roman world,religione misterica,religioni i cui fondamenti sono rivelati solo agli adepti,Religion,concept
+Q177764,Voodoo Church,"religion practiced by the Aja, Ewe, and Fon people",vudù,religione afroamericana,Religion,concept
 Q840665,idolatry,idol worship,idolatria,fase religiosa,Religion,concept
 Q815628,Bon,Tibetan religion,Bön,antica religione del Tibet e del Nepal,Religion,concept
-Q1189816,ethnic religion,religion defined by the ethnicity of its adherents,religione etnica,religione o sistema di credenze associate a uno specifico gruppo etnico,Religion,concept
-Q1651597,Indian religions,religions that originated in the Indian subcontinent,religioni indiane,religioni che hanno avuto origine nel subcontinente indiano,Religion,concept
 Q1784735,UFO religion,type of religion which is partly based on beliefs about UFOs or extraterrestrial aliens,religione ufologica,tipo di religione,Religion,concept
+Q1651597,Indian religions,religions that originated in the Indian subcontinent,religioni indiane,religioni che hanno avuto origine nel subcontinente indiano,Religion,concept
+Q620629,deism,belief in God without revelation,deismo,filosofia razionalista e anticlericale,Religion,concept
+Q1189816,ethnic religion,religion defined by the ethnicity of its adherents,religione etnica,religione o sistema di credenze associate a uno specifico gruppo etnico,Religion,concept
+Q620805,theism,belief in the existence of at least one deity; the opposite of atheism,teismo,dottrina e credo secondo cui esista almeno una divinità,Religion,concept
 Q6957341,Major religious groups,religious movement with major international spread,religione maggiore,movimenti religiosi con diffusione internazionale maggiore,Religion,concept
 Q11272439,Jeungsanism,korean New Religious Movement,Jeungsanismo,movimento religioso sudcoreano,Religion,concept
 Q22974199,minority religion,"religion held by a minority of the population of a country, state, or region",religione di minoranza,"religione di una minoranza della popolazione di un paese, stato o regione",Religion,concept

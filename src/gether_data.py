@@ -45,9 +45,9 @@ def process_category_minimal(category_id, category_name, chunk_size=20, max_item
     output_file = os.path.join(DATA_DIR, f"{category_name.replace(' ', '_')}_items.csv")
     
     # Check if this category has already been processed
-    if os.path.exists(output_file):
-        print(f"Category {category_name} already processed, skipping...")
-        return output_file
+    # if os.path.exists(output_file):
+    #     print(f"Category {category_name} already processed, skipping...")
+    #     return output_file
     
     all_results = []
     offset = 0
@@ -240,7 +240,7 @@ def main():
     for cat_id, cat_name in categories:
         try:
             print(f"\n{'='*50}\nProcessing category: {cat_name}\n{'='*50}\n")
-            output_file = process_category_minimal(cat_id, cat_name, chunk_size=20, max_items=200)
+            output_file = process_category_minimal(cat_id, cat_name, chunk_size=20, max_items=5000)
             output_files.append(output_file)
             
             # Significant wait between categories
