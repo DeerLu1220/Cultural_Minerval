@@ -1,0 +1,35 @@
+item,itemLabel,itemDescription,itemItalianLabel,itemItalianDescription,category,type
+Q106714272,Monuments to the martyrs of Fascism,"monument in Bologna, Itay",Monumento ai martiri della rivoluzione fascista,"monumento a Bologna, Italia",Architecture,entity
+Q120801569,hermitage of San Rocco di Ripa,hermitage and church at Fagnano Alto (AQ),eremo di San Rocco in Ripa,eremo e chiesa a Fagnano Alto in località Ripa Fagnano (AQ),Architecture,entity
+Q126915765,Sant'Angelo in Vetulis,cave church situated between Sulmona and Pacentro,chiesa Sant'Angelo in Vetulis,chiesa rupestre situata tra Sulmona e Pacentro,Architecture,entity
+Q130394232,Hermitage of Sant'Onofrio,"hermitage in Sant'Onofrio at Lucoli, L'Aquila, Italy",eremo di Sant'Onofrio di Lucoli,eremo di Sant'Onofro di Lucoli (AQ),Architecture,entity
+Q131303541,Hermitage of Bonanno da Roio,hermitage at Roio (AQ),Grotta di Bonanno da Roio,eremo a Roio (AQ),Architecture,entity
+Q131329165,Hermitage of Placido da Roio,"hermitage of Placido da Roio at Fossa, L'Aquila, Italy",grotta di Placido da Roio,grotta di Placido da Roio a Fossa (AQ),Architecture,entity
+Q131341193,cave of San Giovanni di Bisegna,cave for religious service at Bisegna (AQ),grotta di San Giovanni di Bisegna,grotta  di culto rupestre a Bisegna (AQ),Architecture,entity
+Q131378951,hermitage of San Terenziano,hermitage at Corfinio (AQ),eremo di San Terenziano,eremo a Corfinio (AQ),Architecture,entity
+Q131429491,hermitage of San Franco ai Peschioli,hermitage at Assergi (AQ),eremo di San Franco ai Peschioli,eremo ad Assergi (AQ),Architecture,entity
+Q131429560,hermitage of San Franco al Cefalone,hermitage near Pizzo Cefalone (AQ),eremo di San Franco al Cefalone,eremo al Pizzo Cefalone (AQ),Architecture,entity
+Q131844628,Chapel for the Opet Festival,"ancient Egyptian chapel in Deir el-Medina, Luxor, Egypt, near the north wall of the village",Cappella delle Feste,"antica cappella egizia a Deir el-Medina in Egitto, a ridosso del muro nord del villaggio",Architecture,entity
+Q23388466,Hermitage of San Venanzio,"hermitage in Raiano, Italy",eremo di San Venanzio,edificio religioso di Raiano,Architecture,entity
+Q25667840,Eremo di Santa Maria della Ritornata,"hermitage in Civita d'Antino, L'Aquila, Italy",eremo di Santa Maria della Ritornata,eremo di Civita d'Antino,Architecture,entity
+Q3390714,stronghold,town/city that has been fortified,piazzaforte,tipo di struttura difensiva,Architecture,entity
+Q3949832,Santuario della Madonna di Pietrabona,"sanctuary in Castel di Ieri (AQ), Italy",santuario della Madonna di Pietrabona,santuario di Castel di Ieri (AQ),Architecture,entity
+Q642979,Monolithic churches in Lalibela,Churches made from a single block of stone in Ethiopia,chiese rupestri di Lalibela,patrimonio dell'umanità in Etiopia,Architecture,entity
+Q86586931,hermitage of Santa Maria de Criptis,hermitage cave on mount Morrone (AQ),eremo di Santa Maria de Criptis,grotta sul monte Morrone (AQ),Architecture,entity
+Q47844,landscape architecture,"design of outdoor public areas, landmarks, and structures to achieve environmental, social-behavioral, or aesthetic outcomes",architettura del paesaggio,branca dell'architettura che si occupa della progettazione di spazi aperti,Architecture,concept
+Q185035,sustainable architecture,"architecture that seeks to minimize the negative environmental impact of buildings by efficiency and moderation in the use of materials, energy, and development space and the ecosystem at large",bioarchitettura,architettura che si propone il rispetto dell'ambiente naturale,Architecture,concept
+Q212940,Islamic architecture,architectural style,architettura islamica,stile architettonico,Architecture,concept
+Q150737,architectural engineering,application of engineering principles and technology to building design and construction,ingegneria edile,branca dell'ingegneria,Architecture,concept
+Q176483,Gothic architecture,style of architecture,architettura gotica,stile architettonico,Architecture,concept
+Q508475,colonial architecture,Architectural style in current or former colonies,architettura coloniale,stile architettonico,Architecture,concept
+Q333353,futurist architecture,architectural style,architettura futurista,forma di architettura della prima metà del Novecento,Architecture,concept
+Q840829,baroque architecture,building style of the Baroque era,architettura barocca,stile architettonico,Architecture,concept
+Q1295040,Art Nouveau architecture,architectural style,architettura art nouveau,stile architettonico,Architecture,concept
+Q1477476,industrial architecture,type of architecture,architettura industriale,tipo di architettura,Architecture,concept
+Q3621609,Mycenaean Revival architecture,"revival architectural style, part of neoclassical revival in Greece",Architettura neomicenea,stile architettonico,Architecture,concept
+Q3771791,Etruscan architecture,architecture of the Etruscan civilization,Architettura etrusca,architettura della civiltà etrusca,Architecture,concept
+Q4198718,classical architecture,"architectural style, inspired by classical Greco-Roman architectural principles",architettura classica,stile architettonico,Architecture,concept
+Q11587139,rock-cut architecture,"creation of structures, buildings, and sculptures by excavating solid rock",architettura scavata nella roccia,strutture architettoniche create scavando nella roccia,Architecture,concept
+Q11350230,Rococo architecture,a late Baroque 18th-century architectural style,architettura rococò,stile architettonico,Architecture,concept
+Q17995705,civil architecture,type of architecture,architettura civile,tipo di architettura,Architecture,concept
+Q30056315,military architecture,type of architecture,architettura militare,tipo di architettura,Architecture,concept

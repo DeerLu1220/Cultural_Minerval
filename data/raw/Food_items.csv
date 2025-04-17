@@ -1,0 +1,201 @@
+item,itemLabel,itemDescription,itemItalianLabel,itemItalianDescription,category,type
+Q1022124,beef bourguignon,French wine-based beef stew,manzo alla borgognona,"stufato di carne, ricetta tradizionale francese",Food,entity
+Q102316130,turkey heart,heart of domestic turkey,cuore di tacchino,cuore di un tacchino domestico,Food,entity
+Q102318348,turkey fat,fat from domestic turkey,grasso di tacchino,grasso ricavato da un tacchino domestico,Food,entity
+Q1027454,Calpis,Japanese company,Calpis,impresa,Food,entity
+Q102824697,black raspberry,fruit of Rubus occidentalis,lampone nero,frutto del Rubus occidentalis,Food,entity
+Q1032955,Candia dei Colli Apuani,Italian wine,Candia dei Colli Apuani,vino DOC toscano,Food,entity
+Q103449274,pigeon pea,seed from Cajanus caja,legume caiano,legume proveniente da Cajanus caja,Food,entity
+Q1034869,cappelletti,type of pasta,cappelletti,tipo di pasta ripiena,Food,entity
+Q10357458,panela,unrefined whole cane sugar,Panela,piatto colombiano,Food,entity
+Q103795986,green pepper,spice,pepe verde,spezia,Food,entity
+Q104007757,white mulberry,fruit from Morus alba,mora di gelso bianco,frutto di albero della famiglia delle Moracee,Food,entity
+Q104032416,sweet cucumber,fruit of Solanum muricatum,melone-pepino,frutto del Solanum muricatum,Food,entity
+Q104034852,parsley oil,oil derived from the leaves of Petroselinum crispum,olio al prezzemolo,olio derivato dalle foglie del Petroselinum crispum,Food,entity
+Q104223710,angostura bark oil,oil from the bark of Angostura trifoliata,olio di corteccia di Angostura,olio dalla corteccia di Angostura trifoliata,Food,entity
+Q104224282,white lupin bean,seed from Lupinus albus,lupino bianco,legume commestibile,Food,entity
+Q104245488,rice germ,germ from the seeds of Oryza sativa,germe di riso,germe da semi di Oryza sativa,Food,entity
+Q104413623,safflower seed,seed from Carthamus tinctorius,seme di cartamo,seme di Carthamus tinctorius,Food,entity
+Q104733765,rutabaga,root vegetable from Brassica napus subsp. rapifera,rutabaga,tipo di rapa da Brassica napus subsp. rapifera,Food,entity
+Q1048282,Cassata,Type of sponge cake,Cassata siciliana,prodotto tipico siciliano,Food,entity
+Q104830932,Vabé,French wine,Vabé,vino francese,Food,entity
+Q104902665,Thomas Hardy's Ale,British barley wine beer,Thomas Hardy's Ale,birra britannica stile barley wine,Food,entity
+Q1051699,Cava,Spanish sparkling wine protected designation of origin,Cava,vino spagnolo,Food,entity
+Q1052236,pasta salad,salad containing pasta,pasta fredda,piatto freddo a base di pasta,Food,entity
+Q10530825,Hypsizygus tessulatus,species of fungus,Hypsizygus tessulatus,specie di fungo,Food,entity
+Q1054633,Cerasuolo di Vittoria,Italian DOCG red wine from Sicily,Cerasuolo di Vittoria,vino DOCG siciliano,Food,entity
+Q10563342,chabichou du Poitou,"soft, unpasteurized, natural-rind French goat cheese",chabichou du Poitou,piccola forma di formaggio di latte di capra,Food,entity
+Q1056603,Cesanese del Piglio,Italian red wine,Cesanese del Piglio,vino DOCG laziale,Food,entity
+Q1056769,Colby cheese,Type of semi-hard cheese,Colby,formaggio statunitense,Food,entity
+Q1057256,Ossobuco,Lombard dish,ossobuco,piatto della cucina milanese,Food,entity
+Q1057649,tandoori chicken,Indian subcontinent chicken dish,pollo tandoori,piatto indiano,Food,entity
+Q1057953,ceviche,"traditional dish in Peru prepared with raw fish marinated in lemon, seasoned with chili pepper and salt and accompanied with locally grown produce",ceviche,piatto a base di pesce crudo,Food,entity
+Q1058410,prawn,common name applied to large swimming crustaceans,gambero,nome comune di varie specie di crostacei acquatici,Food,entity
+Q1059809,Lotus rhizome,edible rhizome of the lotus plant,radice di loto,rizoma commestibile della pianta di loto,Food,entity
+Q106020660,black mulberry,fruit from Morus nigra,mora di gelso nero,frutto del Morus nigra,Food,entity
+Q1061856,shabu-shabu,Japanese dish,shabu shabu,variante giapponese di un piatto tradizionale cinese,Food,entity
+Q1062396,cocoa powder,mixture of many substances remaining after cocoa butter is extracted from cacao beans,cacao in polvere,miscela delle sostanze residue dopo l'estrazione del burro di cacao dai semi del cacao,Food,entity
+Q1062531,boiled egg,egg dish,uovo alla coque,pietanza,Food,entity
+Q1062816,Pepero,a cookie stick snack from South Korea,Pepero,caramelle sudcoreane,Food,entity
+Q1063736,penne,type of pasta,penne,formato di pasta,Food,entity
+Q106597731,Moliterno,Italian pasta filata cheese,pecorino di Moliterno,tipo di formaggio,Food,entity
+Q1068574,chawanmushi,Japanese egg custard dish,chawanmushi,piatto della cucina giapponese,Food,entity
+Q1073142,chimichurri,food sauce,chimichurri,salsa alimentare sudamericana,Food,entity
+Q107411,oyster,salt-water bivalve mollusc,ostrica,mollusco marino bivalve,Food,entity
+Q107414065,cowpea,type of beans from Vigna unguiculata,fagiolo dall'occhio,tipo di legume da Vigna unguiculata,Food,entity
+Q107498785,Ossa di morto,typical traditional sicilian biscuits of the festivities of the dead,Ossa di morto,dolce tipico siciliano,Food,entity
+Q1076874,fried rice,cooked rice stir-fried with eggs and other ingredients,riso fritto,riso fritto al salto,Food,entity
+Q1076906,sunflower seed,fruit of the sunflower (Helianthus annuus),seme di girasole,frutto dell'Helianthus annuus,Food,entity
+Q108417752,Pizza bianca,Roman flatbread,pizza bianca,piatto tradizionale italiano,Food,entity
+Q1086886,Riviera Ligure,is an extra virgin olive oil with a protected designation of origin,Riviera Ligure,è un olio extra vergine di oliva a denominazione di origine protetta.,Food,entity
+Q1088248,crocchè,potato dish,crocchè,piatto a base di patate tipico della cucina napoletana,Food,entity
+Q108905093,dalgona,Korean sugar candy,Dalgona,caramella sudcoreana,Food,entity
+Q1089959,churrasco,Iberian barbecue,Churrasco,piatto tipico della cucina latinoamericana,Food,entity
+Q1093314,Tuber melanosporum,species of fungus,Tuber melanosporum,specie di fungo,Food,entity
+Q1093380,club sandwich,type of sandwich,club sandwich,Sandwich statunitense,Food,entity
+Q1093742,lemon,fruit (for Citrus ×limon use Q500),limone,frutto,Food,entity
+Q109379179,BLAT,"sandwich with bacon, lettuce, avocado and tomato",BLAT,"panino con pancetta, lattuga, avocado e pomodoro",Food,entity
+Q1094305,Luther Burger,hamburger or cheeseburger with one or more glazed doughnuts in place of the bun,donut burger,tipo di sandwich,Food,entity
+Q10988133,cow's milk,milk produced by female cattle,latte vaccino,latte prodotto dalla vacca,Food,entity
+Q109980892,lotus root oil,oil from the rhizome of Nelumbo nucifera,olio di radice di loto,olio dal rizoma di Nelumbo nucifera,Food,entity
+Q10999547,Lucifer,brand of Belgian ale beer,Lucifer,marca di birra di stile Belgian ale,Food,entity
+Q110009144,niger seed,seed from Guizotia abyssinica,seme di niger,seme da Guizotia abyssinica,Food,entity
+Q110014668,scarlet runner bean,bean from Phaseolus coccineus,fagiolo di Spagna,legume ricavato dalla pianta Phaseolus coccineus,Food,entity
+Q110022244,rapeseed seed,seed of Brassica napus,seme di colza,seme di Brassica napus,Food,entity
+Q11027461,macadamia nut,edible seed,noce macadamia,frutto dell'albero tropicale chiamato Macadamia,Food,entity
+Q11031462,Atlantic sturgeon,subspecies of fish,oxyrinchus,sottospecie di pesce,Food,entity
+Q1103862,camomile oil,essential oil of German chamomile or Roman chamomile,olio di camomilla,è un olio dei capolini di varie specie di camomilla,Food,entity
+Q11078597,sarmale,mâncare traditional romaneasca,Sarmale,pietanza tipica della cucina balcanica-levantina,Food,entity
+Q110800802,pisarei,type of pasta,pisarei,tipo di pasta,Food,entity
+Q1109395,Colli di Luni,wine,Colli di Luni Vermentino,vino DOC ligure,Food,entity
+Q1109662,Colline Novaresi,wine,Colline novaresi,vino DOC piemontese,Food,entity
+Q110974067,misha,sesame oil used in Mandaean rituals,miša,"olio, unguento",Food,entity
+Q110977445,Violino di capra,Italian cured goat meat,Violino di capra,salume tipico della Valle San Giacomo,Food,entity
+Q111092704,sfilacci,type of processed red meat typical of the Veneto region in North Italy,sfilacci,tipo di lavorazione della carne di cavallo tipica del Veneto,Food,entity
+Q111096445,elderberry,common name for fruit from Sambucus  sect. Sambucus nigra,sambuco,nome comune del frutto del Sambucus nigra,Food,entity
+Q111185,Ferula assa-foetida,species of plant,Ferula assa-foetida,specie di pianta della famiglia Apiaceae,Food,entity
+Q111609493,appelflap,traditional Dutch apple turnover,Appelflap,dolce olandese,Food,entity
+Q1117173,Sarde in saor,Venetian appetizer,Sarde in saor,antipasto veneziano,Food,entity
+Q1118978,coriander seed oil,oil from the seeds of coriander,olio di coriandolo,olio di semi di coriandolo,Food,entity
+Q11190742,brown sugar,sucrose sugar product with a distinctive brown colour,zucchero bruno,"zucchero di colore marrone, a causa della presenza di melassa",Food,entity
+Q11262139,Salice Salentino,wine,Salice Salentino,vino DOC pugliese,Food,entity
+Q1127722,Constantia,dessert wine,Constantia,vino sudafricano,Food,entity
+Q1129282,Morchella esculenta,species of fungus,Morchella esculenta,specie di fungo,Food,entity
+Q112959217,Rabatòn,Recipe of Piedmont,Rabatòn,Piatto italiano,Food,entity
+Q1133127,corn dog,"deep-fried, corn-battered hot dog on a stick",corn dog,alimento,Food,entity
+Q1133685,Evoca Cola,soft drink,Evoca Cola,bevanda analcolica,Food,entity
+Q11339918,macaroni salad,type of pasta salad,Insalata di maccheroni,tipo di insalata di pasta,Food,entity
+Q1135592,Cortese di Gavi,type of Italian white wine,Cortese di Gavi,vino DOCG piemontese,Food,entity
+Q1135606,Black seabream,species of fish,Spondyliosoma cantharus,specie di pesce,Food,entity
+Q1136876,Okinawa soba,Japanese food,soba di Okinawa,piatto tipico della cucina di Okinawa,Food,entity
+Q1137966,K-ration,meal supplied by the US military,Razione K,pasto militare dell'esercito americano nella Seconda guerra mondiale,Food,entity
+Q1142841,tonkatsu,Japanese dish of deep-fried pork,tonkatsu,piatto giapponese,Food,entity
+Q1144935,curry powder,spice mix,curry,miscela indiana di spezie,Food,entity
+Q1146771,gefilte fish,dish made from a poached mixture of ground deboned fish,gefilte fish,pietanza,Food,entity
+Q1147677,sofrito,"sauce used as a base in Latin American, Spanish, Italian, and Portuguese cooking",soffritto,"preparato gastronomico utilizzato come base per sughi o piatti a base di carne, pesce o verdure",Food,entity
+Q1147853,tamale,"corn-based food from Mesoamerica, traditionally wrapped in corn husks or banana leaves",tamales,piatto unico messicano,Food,entity
+Q1150150,Taralli,food,Taralli,prodotto tipico dell'Italia meridionale,Food,entity
+Q1150262,Moroccan cuisine,culinary traditions of Morocco,Cucina marocchina,tradizione culinaria del Marocco,Food,entity
+Q1151502,Todarodes sagittatus,species of squid,Todarodes sagittatus,specie di mollusco,Food,entity
+Q115166223,Kartoffelklösse,potato dumpling dish,Kartoffelknödel,grosso gnocco tedesco a base di patate,Food,entity
+Q1156522,Lady Grey,trademarked variation on Earl Grey tea,Lady Grey,varietà di tè,Food,entity
+Q1160961,Aleurites moluccanus,species of tree in the family Euphorbiaceae,Aleurites moluccana,albero,Food,entity
+Q11621982,buckwheat flour,type of flour,farina di grano saraceno,tipo di farina,Food,entity
+Q1165686,Grifola frondosa,species of fungus,Grifola frondosa,specie di fungo,Food,entity
+Q116842438,Amaretti di Sassello,"biscuit from Sassello, Italy",Amaretti di Sassello,prodotto tipico di Sassello,Food,entity
+Q11688697,sole,fish name belonging to several families,sogliola,nome comune con cui si indicano alcune specie di pesci d'acqua salata appartenenti alla famiglia dei soleidi e dei pleuronectidi,Food,entity
+Q11700178,Potica,Slovenian walnut cake roll,putizza,dolce tipico della zona di Trieste,Food,entity
+Q117051304,Curzoli,"type of pasta of Romagna, Italy",Curzoli,varietà di pasta all'uovo tipica della cucina italiana,Food,entity
+Q117268856,Inbriago,Italian cheese,Inbriago,formaggio tipico del Veneto,Food,entity
+Q117270376,Barbusto,Italian sausage,Barbusto,insaccato tipico trentino e veneto,Food,entity
+Q117307294,Bela Badia,Italian cheese,Bela Badia,formaggio altoatesino,Food,entity
+Q117307969,Casàda,Italian cheese,Casàda,Preparazione casearia italiana a base di cagliata o ricotta e panna,Food,entity
+Q117460089,strichetti,type of pasta,strichetti,formato di pasta,Food,entity
+Q118129553,Friuli Colli Orientali,Italian wine and protected designation,Friuli Colli Orientali,vino DOC friulano,Food,entity
+Q11818755,Grodziskie,style of beer from Poland,Piwo Grodziskie,stile di birra polacco,Food,entity
+Q1190165,spanakopita,savory spinach pastry,Spanakopita,piatto tipico greco,Food,entity
+Q1190475,tteokbokki,South Korean dish made from rice and flour cakes,tteokbokki,piatto coreano,Food,entity
+Q119267911,Lumblija,Pastry from Croatia,lumblija,dolce croato,Food,entity
+Q1193612,nata de coco,"Chewy, translucent, jelly-like food produced by the fermentation of coconut water",nata de coco,dolce filippino,Food,entity
+Q1199019,Thousand Island dressing,American salad dressing and condiment,salsa Thousand Island,salsa statunitense,Food,entity
+Q12000036,sesame seed,seed of Sesamum indicum,seme di sesamo,seme di Sesamum indicum,Food,entity
+Q1200514,moules-frites,dish of mussels and fries,moules-frites,piatto composto da cozze e patatine fritte,Food,entity
+Q120499220,Petit four,Pastry of Italy,Petit four,biscotto italiano,Food,entity
+Q120766622,Chu Jelly,material derived from Chuchus in The Legend of Zelda,Gelatina chuchu,materiale derivato da Chuchus di The Legend of Zelda,Food,entity
+Q1208221,rolled oats,lightly processed whole-grain food made from oat,fiocchi d'avena,alimento di origine vegetale a base di cereali,Food,entity
+Q120825054,provatura,Italian fresh cheese,provatura,formaggio fresco a pasta filata originario del Lazio fatto con latte di bufala,Food,entity
+Q120968865,Alta Badia,Italian cheese,Alta Badia,Formaggio altoatesino,Food,entity
+Q121224424,Dolomitenkönig,Italian cheese,Dolomitenkönig,"formaggio italiano, riconosciuto come prodotto agroalimentare tradizionale altoatesino",Food,entity
+Q121437693,Rock-Hard Food,cooked from stone and ores,cibo durissimo,cotto con pietre e minerali,Food,entity
+Q121695915,brioche con gelato,Italian dessert typical in Sicily,Brioche con gelato,Dolce tipico siciliano,Food,entity
+Q1224461,Valle d'Aosta Fromadzo,Italian cheese,Valle d'Aosta Fromadzo,formaggio DOP italiano,Food,entity
+Q1231414,Époisses,French cheese,Époisses,formaggio francese,Food,entity
+Q1233145,Pont-l'Évêque,"uncooked, unpressed cow's-milk cheese, originally manufactured in the area around the commune of Pont-l'Évêque, in the Calvados département of Normandy",Pont-l'Évêque,"Pont-l'Évêque è un formaggio francese di latte vaccino, a pasta molle e crosta lavata, prodotto sul territorio dell'antica Normandia storica.",Food,entity
+Q123531411,Micischia,Abruzzo and Puglia agri-food product,Micischia,prodotto agroalimentare abruzzese e pugliese,Food,entity
+Q1235386,Dolcetto d’Alba,Italian red wine,Dolcetto d'Alba,vino DOC piemontese,Food,entity
+Q1236980,Stropharia rugosoannulata,species of fungus,Stropharia rugosoannulata,specie di fungo,Food,entity
+Q12372598,plum,fruit; use Q6401215 for the taxon; Q13223298 for the species,prugna,frutto,Food,entity
+Q1244010,Saganaki,style of Greek dish,Saganaki,piatto greco,Food,entity
+Q1249172,Selles-sur-Cher cheese,"goat-milk cheese from Loir-et-Cher, France",Selles-sur-Cher,formaggio francese,Food,entity
+Q12533094,eggplant,"edible botanical fruit of the species Solanum melongena, used as a vegetable",melanzana,"frutto della pianta Solanum melongena, usato come verdura",Food,entity
+Q125451968,Viennese,sicilian dessert,Viennese,dolce siciliano,Food,entity
+Q12553023,Mastava,Central Asian dish,Mastava,piatto della cucina uzbeka,Food,entity
+Q1255331,isinglass,substance obtained from the dried swim bladders of fish,colla di storione,"gelatina essiccata in fogli, generalmente utilizzata in cucina come addensante",Food,entity
+Q126218,Bianco di Custoza,wine,Bianco di Custoza,vino DOC veneto,Food,entity
+Q126372152,Blu di Cuneo,Italian cheese,Blu di Cuneo,formaggio erborinato piemontese,Food,entity
+Q1268122,duxelles,"dish used as a flavour base in other recipes consisting of finely chopped mushrooms, onions and herbs",duxelles,pietanza,Food,entity
+Q1269205,rice flour,a form of flour made from finely milled rice,farina di riso,farina ottenuta dal riso,Food,entity
+Q12709593,spaghetti bolognese,pasta dish,spaghetti alla bolognese,primo piatto a base di spaghetti,Food,entity
+Q1277255,Lagenaria siceraria,species of plant,Lagenaria siceraria,specie di pianta della famiglia Cucurbitaceae,Food,entity
+Q12812711,Zerde,Iranian cuisine dessert,Zerde,dessert turco a base di riso,Food,entity
+Q12812990,Urfa pepper,"pepper from Urfa, Turkey",Urfa biber,"peperoncino di Urfa, in Turchia",Food,entity
+Q1285128,Alcamo wine,wine,Alcamo,vino DOC siciliano,Food,entity
+Q12955012,Bianco di Quistello,wine,Bianco di Quistello,vino,Food,entity
+Q130097,pemmican,"a mixture of tallow, dried meat, and sometimes dried berries",pemmican,preparazione alimentare,Food,entity
+Q13013369,mango sticky rice,South and Southeast Asian dessert,Khao niao mamuang,dessert del Sud-est asiatico,Food,entity
+Q1303349,Mulsum,wine mixed with honey,Mulsum,nome latino della miscela di vino e miele,Food,entity
+Q1304390,oyakodon,Japanese chicken and rice dish,Oyakodon,piatto tipico della cucina giapponese,Food,entity
+Q130492500,Biscotto della monaca,"typical biscuit from Catania, Italy",Biscotto della monaca,biscotto tipici di Catania,Food,entity
+Q1305079,ghormeh sabzi,Iranian herb stew,Ghormeh sabzi,piatto della cucina iraniana,Food,entity
+Q130531854,Totò al cioccolato,"typical chocolate biscuit of Catania, Italy",Totò al cioccolato,biscotto al cioccolato tipico di Catania,Food,entity
+Q130807868,Chestnut hearts,South Tyrolean dessert,Cuore di castagna,Dolce altoatesino,Food,entity
+Q1309195,Tremella fuciformis,species of fungus,Tremella fuciformis,specie di fungo,Food,entity
+Q13099103,hemp milk,plant milk made from hemp seeds that are soaked and ground in water,latte di canapa,"bevanda alimentare vegetale a base di semi di canapa impregnati e macinati in acqua, talvolta con l'aggiunta di zuccheri",Food,entity
+Q1310859,Retsina,a resinated wine from Greece,Retsina,vino greco,Food,entity
+Q131419,sausage,food usually made from ground meat with a skin around it,insaccato,pietanza costituita da carne macinata inserita in un budello,Food,entity
+Q13147213,varenyky,stuffed dumplings of unleavened dough,varenyki,piatto tradizionale russo e ucraino,Food,entity
+Q1317552,orzo,form of short-cut pasta which is shaped like a large grain of rice,risoni,tipo di pasta che somiglia a un chicco d'orzo,Food,entity
+Q1317958,pici,"a thick, hand-rolled pasta",pici,tipo di pasta,Food,entity
+Q13212199,Vezzena,Italian cheese,Vezzena,tipo di formaggio,Food,entity
+Q132190451,Diavola pizza,"pizza variety, usually topped with spicy salami, tomato sauce, mozzarella cheese, chili pepper and olives",pizza diavola,variante di pizza,Food,entity
+Q132681709,kielbasa slaska,"type of Polish brühwurst, typical of Upper Silesia",kielbasa slaska,"tipo di insaccato parzialmente bollito polacco, tipico dell'Alta Slesia",Food,entity
+Q1328462,honeycomb toffee,type of sweet candy,Honeycomb toffee,dolce sudcoreano,Food,entity
+Q133503577,Ricü Barbaresco,Italian red wine from the Barbaresco DOCG produced by Montaribaldi,Ricü Barbaresco,Vino rosso italiano della DOCG Barbaresco prodotto dalla Cantina Montaribaldi,Food,entity
+Q1340136,Moscato di Sorso-Sennori,Italian wine from Sardinia,Moscato di Sorso-Sennori,vino DOC sardo,Food,entity
+Q134185,Durian,fruit,durian,frutto di diverse specie arboree appartenenti al genere Durio,Food,entity
+Q13519276,Torcetti,Northern Italian yeasted cookie,Torcetti,dolce italiano,Food,entity
+Q136701,zabaione,Italian dessert,zabaione,"crema a base di uova, zucchero e vino",Food,entity
+Q1368986,Est! Est!! Est!!! di Montefiascone,wine,Est! Est!! Est!!! di Montefiascone,vino DOC laziale,Food,entity
+Q1372144,sausage casing,material used in sausage-making,budello,involucro naturale o sintetico in cui è inserito un insaccato,Food,entity
+Q1391506,Greco di Tufo,Italian wine,Greco di Tufo,vino della Campania,Food,entity
+Q1394013,Falerio dei Colli Ascolani,wine,Falerio dei Colli Ascolani,vino DOC marchigiano,Food,entity
+Q1394022,Falerno del Massico,Italian wine,Falerno del Massico,vino DOC prodotto in Campania,Food,entity
+Q1396077,Fara,wine,Fara,vino DOC,Food,entity
+Q1401752,Vernaccia di San Gimignano,wine,Vernaccia di San Gimignano,vino DOCG toscano,Food,entity
+Q1402670,Maes pils,Belgian beer brewed by Alken-Maes,Maes,Birrificio belga,Food,entity
+Q14034173,Pinot Nero dell'Oltrepò Pavese,Italian wine,Pinot Nero dell'Oltrepò Pavese,vino italiano,Food,entity
+Q1404965,Orvieto DOC,wine,Orvieto,vino italiano,Food,entity
+Q1409015,heart as food,type of offal,cuore,alimento umano proveniente dalla macellazione degli animali,Food,entity
+Q1421464,Hypsizygus,genus of fungi,Hypsizygus,genere di funghi,Food,entity
+Q1421577,Ghemme DOCG,wine,Ghemme,vino DOCG piemontese,Food,entity
+Q1430040,corn smut,species of edible fungus,Ustilago maydis,specie di fungo,Food,entity
+Q143359,Capelin,species of fish,Capelin,specie di animali della famiglia Osmeridae,Food,entity
+Q1434993,Malaga,sweet fortified wine originating in the Spanish city of Málaga,Málaga,vino spagnolo,Food,entity
+Q1435874,ugali,type of maize flour porridge made in Africa,ugali,piatto dell'Africa orientale e meridionale,Food,entity
+Q1436715,groat,hulled kernels of various cereal grains,granella,seme delle granaglie senza buccia,Food,entity
+Q144990,Erbaluce di Caluso Passito,wine,Erbaluce di Caluso passito,vino DOCG piemontese,Food,entity
+Q1465330,fried ice cream,"Coated, deep-fried dessert",Gelato fritto,Dolce composto da gelato avvolto in una impanatura o in pastella e fritto in olio profondo,Food,entity
+Q1470283,liver as food,liver meat used as food,fegato,alimento umano proveniente dalla macellazione degli animali,Food,entity
+Q1471040,Frutta martorana,Italian marzipan sweet,Frutti di Martorana,prodotto tipico siciliano,Food,entity
+Q1474221,Lambrusco di Sorbara,Italian sparkling wine,Lambrusco di Sorbara rosso,vino DOC emiliani e romagnoli,Food,entity
+Q147651,peanut butter,spread made primarily from ground dry roasted peanuts,burro di arachidi,alimento ricavato dalla macinatura di semi di arachidi,Food,entity

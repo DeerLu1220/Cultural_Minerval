@@ -1,0 +1,29 @@
+item,itemLabel,itemDescription,itemItalianLabel,itemItalianDescription,category,type
+Q11033,mass media,media technologies that are intended to reach a large audience by mass communication,mezzo di comunicazione di massa,mezzo di comunicazione attraverso cui è possibile diffondere un messaggio,Media,concept
+Q571,book,medium for recording information (words or images) typically on bound pages or more abstractly in electronic or audio form,libro,documento scritto costituito da un insieme di fogli stampati oppure manoscritti,Media,concept
+Q41298,magazine,publication that is typically distributed at a regular interval,rivista,pubblicazione periodica,Media,concept
+Q40632,infotainment,media consisting of both information and entertainment,infotainment,canale di comunicazione di massa con funzione di informazione e intrattenimento,Media,concept
+Q620615,mobile app,software application designed to run on mobile devices,applicazione mobile,applicazione software destinata ad un dispositivo mobile,Media,concept
+Q372222,human-readable medium,representation of data or information that can be naturally read by humans,medium leggibile da un umano,rappresentazione di un dato o informazione facilmente leggibile da un umano,Media,concept
+Q37260,writing,representation of language in a textual medium; tool developed by human society,scrittura,fissazione di un significato in una forma esterna durevole,Media,concept
+Q132744,fax,"method of transmitting images, often of documents",fax,servizio telefonico per la trasmissione di immagini fisse,Media,concept
+Q1046817,disk storage,storage mechanisms that record data on the surface of rotating disks,Unità di memoria di massa,tipo di unità periferica,Media,concept
+Q1027879,graphics,visual presentation on some surface,grafica,rappresentazione visuale su una superficie,Media,concept
+Q658274,menu,list of food and drinks available at a restaurant,menù,lista di cibi e bevande,Media,concept
+Q1002697,periodical,"publication type, serial publication that appears in a new edition on a regular schedule",periodico,pubblicazione a frequenza regolare,Media,concept
+Q1047466,RS-485,multidrop serial communication standard,EIA RS-485,specifica ISO/OSI a livello fisico di una connessione seriale,Media,concept
+Q1640824,inscription,"words, texts, lettering, or symbols marked on a work, building, or object, including texts, legends, documentation notes, or commemoration",iscrizione,testo scritto su lavori od oggetti,Media,concept
+Q1209283,electronic media,media that use electronics or electromechanical energy for the audience to access the content,medium elettronico,tipo di medium,Media,concept
+Q193395,recording medium,physical storage medium for recording information,supporto di memoria,dispositivo per memorizzare dati,Media,concept
+Q202833,social media,virtual online communities,social media,"tecnologie che consentono di condividere in rete contenuti testuali, immagini, video e audio",Media,concept
+Q17075792,poverty porn,tactics through media showing poverty to elicit sympathy,pornografia della povertà,fenomeno mediatico,Media,concept
+Q16144339,cinema,art of film making and projection,cinema,arte della fotogramma e della proiezione,Media,concept
+Q16744570,tablet,"plane object, usually covered with some letters or pictures",tavoletta,oggetto utilizzato per scrivere,Media,concept
+Q806880,banner,"flag or other piece of cloth bearing a symbol, logo, slogan or other message",vessillo,"tipo di bandiera o altro pezzo di stoffa con un simbolo, logo o slogan",Media,concept
+Q733553,channel,physical or logical connection used for transmission of information,canale,via di comunicazione o propagazione di un segnale,Media,concept
+Q2462003,instant messaging client,software for sending or receiving chat messages,client di messaggistica istantanea,tipo di software,Media,concept
+Q6017523,independent media,mass communication outlets not associated with governments or corporations,media indipendente,mezzo di comunicazione non associato al governo di uno stato,Media,concept
+Q7189615,physical media,physical touchable media,mezzo fisico,"medium fisico, tangibile",Media,concept
+Q7271585,schedule,time management tool listing times when events are intended to take place,orario,"organizzazione della sequenza temporale di eventi, specificando l'orario associato a ciascuno di essi",Media,concept
+Q63241860,streaming service,service that delivers on-demand media content via the Internet,servizio di streaming,tipo di servizio,Media,concept
+Q105763494,film roll,a carrier type that consists of a wound length of film,rullino di pellicola,tipo di supporto che consiste di una striscia di pellicola arrotolata,Media,concept

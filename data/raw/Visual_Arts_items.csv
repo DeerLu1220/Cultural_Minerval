@@ -1,0 +1,26 @@
+item,itemLabel,itemDescription,itemItalianLabel,itemItalianDescription,category,type
+Q112110,emblem,"abstract or representational pictorial image that represents a concept, like a moral truth, or an allegory, or a person, like a king or saint",emblema,immagine che incarna un concetto o rappresenta una persona,Visual_Arts,concept
+Q368972,lacquerware,decorative work using lacquer,Lacca,tecnica decorativa,Visual_Arts,concept
+Q429785,poster,type of graphical image created to promote something or as a decoration; publication type,manifesto,qualsiasi pezzo di carta stampata progettato per essere fissato ad una parete o superficie verticale,Visual_Arts,concept
+Q425382,Hilya,artwork depicting the appearance of character of Muhammad,Hilya,genere di letteratura araba,Visual_Arts,concept
+Q46686,reredos,"altarpiece, screen or decoration behind the altar in a church",dossale,oggetto artistico destinato alla parte posteriore dell'altare,Visual_Arts,concept
+Q20460,crucifix,cross with an image or artwork of Jesus on it,crocifisso,rappresentazione di Gesù Cristo messo in croce,Visual_Arts,concept
+Q178401,amphora,type of storage container,anfora,tipo di vaso di terracotta a due manici,Visual_Arts,concept
+Q1062404,artist's book,work of art realized in the form of a book,libro d'arte,lavoro artistico realizzato sotto forma di libro,Visual_Arts,concept
+Q193097,ASCII art,visual art genre using plain-text characters (any character set) to draw pictures,ASCII art,mezzo artistico che si basa principalmente sui computer come supporto di presentazione,Visual_Arts,concept
+Q20437094,installation artwork,"three-dimensional work of art, usually from various materials and larger than a sculpture. For the art genre, use Q212431.",installazione,genere di arte visiva sviluppatosi in epoca postmoderna,Visual_Arts,concept
+Q15711026,altarpiece,"artwork (painting, sculpture or relief) behind the altar",pala d'altare,opera pittorica o scultorea sull'altare o staccato dal muro,Visual_Arts,concept
+Q11424,film,"sequence of images that give the impression of movement, stored on film stock",film,sequenza di immagini dette fotogrammi,Visual_Arts,concept
+Q178659,illustration,graphic image printed with or inserted in the text of a publication as an embellishment or to complement or elucidate the text,illustrazione,"rappresentazione visiva che può avere la forma di un disegno, un dipinto, un fotomontaggio",Visual_Arts,concept
+Q22075301,textile artwork,artwork created from textile materials,opera d'arte tessile,opera d'arte basata sulla lavorazione di uno o più tessuti,Visual_Arts,concept
+Q21550515,cross,"visual work in the shape of two intersecting bars, usually an upright one traversed by a horizontal one, especially used as Christian symbol",croce,"opera visuale consistente in due barre intersecate, spesso usata come simbolo cristiano",Visual_Arts,concept
+Q1004,comics,creative work in which images and text convey information such as narratives,fumetto,tipo di narrazione costituita dalla compresenza di immagini e testo,Visual_Arts,concept
+Q1278452,polyptych,painting or other two dimensional work divided into multiple panels,polittico,dipinto diviso in più pannelli,Visual_Arts,concept
+Q262343,assemblage,art form and technique,assemblage,"tecnica artistica in cui una composizione tridimensionale viene prodotta mettendo insieme oggetti, o parti di essi, generalmente applicati ad un supporto",Visual_Arts,concept
+Q6839695,micromosaic,mosaic painting that uses unusually small mosaic pieces,micromosaico,composizione pittorica ottenuta mediante tessere minuscole di smalto vitreo,Visual_Arts,concept
+Q5567091,glass art,work of art which is substantially or wholly made of glass,opera d'arte in vetro,opera d'arte costituita principalmente di vetro,Visual_Arts,concept
+Q623020,lithophane,"etched or molded artwork in very thin translucent porcelain, intended to be backlit",litofania,tecnica artistica,Visual_Arts,concept
+Q722604,reliquary,container for religious relics,reliquiario,contenitore di reliquie,Visual_Arts,concept
+Q110304307,two-dimensional visual artwork,"artwork primarily or entirely limited to two spatial dimensions; most paintings, drawings, prints, etc.",opera d'arte visiva bidimensionale,"la maggior parte dei dipinti, disegni, stampe, ecc.",Visual_Arts,concept
+Q29457028,projection,image or moving images projected onto a surface,proiezione,immagine o sequenza di immagini proiettata su una superficie,Visual_Arts,concept
+Q79496108,enamel,"item or artwork created using vitreous enamel, usually set in a metal framework",oggetto smaltato,"oggetto od opera d'arte creata utilizzando lo smalto vitreo, di solito su una struttura metallica",Visual_Arts,concept
